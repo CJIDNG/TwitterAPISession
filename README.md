@@ -12,3 +12,8 @@ This repository contains files that will be used for CJID's workshop in July
 1. Install the required packages
 2. Create a `.env` file and save the generated tokens there 
 3. Get the names of the individuals you want to extract their tweet and add it to `names` list.
+4. Run the next cell to get the twitter Ids for each of the individuals you want to extract their data.
+5. Add the id from the response to the `ids` list
+6. Decide what metrics you want to retrieve. Add it to the `tweet.fields` 
+6. Run the next cell to get the tweets for each individual 
+7. Save the response to `csv` 
