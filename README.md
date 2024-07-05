@@ -9,3 +9,6 @@ This repository contains files that will be used for CJID's workshop in July
 5. Run the notebook 
 
 ## How the notebook works
+1. Install the required packages
+2. Create a `.env` file and save the generated tokens there 
+3. Get the names of the individuals you want to extract their tweet and add it to `names` list.
