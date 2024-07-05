@@ -2,11 +2,15 @@
 This repository contains files that will be used for CJID's workshop in July
 
 ## Get Started 
-1. [Visit the Twitter Developer API url]([url](https://developer.x.com/en/docs/twitter-api/tools-and-libraries/v2))
+1. [Visit the Twitter Developer API url](https://developer.x.com/en/docs/twitter-api/tools-and-libraries/v2)
 2. Sign up for access.
-3. Once approved, create a new project 
-4. After creating the project, generate the tokens and key secrets 
-5. Run the notebook 
+3. Once approved, create a new project and follow the on-screen prompts
+<img width="1253" alt="Screenshot 2024-07-05 at 10 24 20" src="https://github.com/CJIDNG/TwitterAPISession/assets/54020973/bd36a70f-2988-40ee-9b00-3eda85dee1d7">
+
+5. After creating the project, generate the tokens and key secrets
+<img width="1251" alt="Screenshot 2024-07-05 at 10 23 31" src="https://github.com/CJIDNG/TwitterAPISession/assets/54020973/25f81cda-cdee-4df4-8e5e-a197fc5655b6">
+
+7. Run the notebook 
 
 ## How to run the notebook
 1. Navigate to `twitter-api.ipynb` file, and open it in a Python environment or create a Codespace
